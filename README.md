@@ -30,7 +30,7 @@ O template está disponível na seguinte URL:
 
 Agora navegue até a pasta criada, abra no Visual Studio Code e por último abra o arquivo `index.js`. Lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências e você terá o seguinte código:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db31d611-26f4-41a4-95be-631f56cc8983/Untitled.png)
+![https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdb31d611-26f4-41a4-95be-631f56cc8983%2FUntitled.png?table=block&id=bff639fa-4de8-4d5f-82ea-7b2f5dc03029&width=2730&userId=b6a9ebbf-49e3-4929-a2c4-6d5214f8d6db&cache=v2](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdb31d611-26f4-41a4-95be-631f56cc8983%2FUntitled.png?table=block&id=bff639fa-4de8-4d5f-82ea-7b2f5dc03029&width=2730&userId=b6a9ebbf-49e3-4929-a2c4-6d5214f8d6db&cache=v2)
 
 ## Middlewares da aplicação
 
